@@ -39,7 +39,7 @@ window.SITE = {
 
   // Requirements that apply to every department
   generalRequirements: [
-    "16 years or older",
+    "18 years or older",
     "A working, clear microphone",
     "Member of the DISTRICT Discord",
     "Read and agree to the server rules",
@@ -170,7 +170,6 @@ window.SITE = {
       requirements: [
         "Strong writing and speaking skills",
         "Solid understanding of the server's penal code",
-        "Must be 18 or older",
       ],
       ranks: ["Paralegal", "Public Defender", "Attorney", "District Attorney", "Judge", "Federal Judge", "Chief Justice"],
     },
